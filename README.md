@@ -50,6 +50,6 @@ Include images in a screenshots/ folder and reference them here:
 🏠 Homepage
 ![Homepage](screenshots/Homepage.png)
 📖 Book Details
-![Book Details](screenshots/AddBook)
+![Book Details](screenshots/AddBook.png)
 ☁️ MongoDB Atlas Dashboard
-![MongoDB Atlas Dashboard](screenshots/Mongo)
+![MongoDB Atlas Dashboard](screenshots/Mongo.png)
