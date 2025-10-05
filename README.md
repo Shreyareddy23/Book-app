@@ -48,7 +48,7 @@ npm start
 Include images in a screenshots/ folder and reference them here:
 
 🏠 Homepage
-
+screenshots/Screenshot 2025-10-05 085813.png
 📖 Book Details
 
 ✍️ Add Review
