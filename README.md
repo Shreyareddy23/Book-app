@@ -48,9 +48,8 @@ npm start
 Include images in a screenshots/ folder and reference them here:
 
 🏠 Homepage
-![Homepage](screenshots/Screenshot 2025-10-05 085813.png)
+![Homepage](screenshots/Homepage.png)
 📖 Book Details
-
-✍️ Add Review
-
+![Book Details](screenshots/AddBook)
 ☁️ MongoDB Atlas Dashboard
+![MongoDB Atlas Dashboard](screenshots/Mongo)
